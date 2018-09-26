@@ -1,0 +1,25 @@
+{
+  "name": "trimer",
+  "version": "1.0.0",
+  "description": "A trim method that allows to trim multiple characters at both ends of a string",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagofilipe12/trimer.git"
+  },
+  "keywords": [
+    "trim"
+  ],
+  "author": "Tiago F. Jesus",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/tiagofilipe12/trimer/issues"
+  },
+  "homepage": "https://github.com/tiagofilipe12/trimer#readme"
+}
