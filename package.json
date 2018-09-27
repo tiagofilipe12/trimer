@@ -24,6 +24,8 @@
   "homepage": "https://github.com/tiagofilipe12/trimer#readme",
   "devDependencies": {
     "assert": "^1.4.1",
+    "codecov": "^3.1.0",
+    "istanbul": "^0.4.5",
     "mocha": "^5.2.0"
   }
 }
